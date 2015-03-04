@@ -9,7 +9,8 @@
 
         <h2>Acceleration and Deceleration:</h2>
         <p>As the waterballoon flies through the air, it is either accelerating or decelerating because it is near to impossible to throw at a constant velocity. Once the hands start to move the velocity begins to increase and after it is released it is still acceleratin due to gravity. It then reaches the face and drastically decreases because of the obstacle in the way and essentially hits zero and then falls to the floor.</p>
-        <p>Equation: Final velocity - Initial velociy / Time</p>
+        <p>Acceleration: Final velocity - Initial velociy / Time</p>
+        <p> Final Velocity^2 = Initial Velocity^2 + 2(Acceleration)(Distance)</p>
 
         <h2>Force:</h2>
         <p></p>
